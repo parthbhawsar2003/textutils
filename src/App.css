@@ -36,3 +36,47 @@
     transform: rotate(360deg);
   }
 }
+
+
+.blank{
+  background-color: #282c34;
+  color: white;
+}
+.hello{
+  color: #282c34;
+}
+/* nav{
+  color: white;
+} */
+ul li ul li{
+  display: none;
+}
+ul  li:hover ul li{
+display: block;
+}
+#box{
+  border-color: blue;
+  width: 80%;
+  margin: auto;
+}
+.heading{
+  margin-left: 39%;
+  
+  
+}
+#bet{
+  margin-left:10%;
+}
+#bt{
+  margin-left: 10px;
+}
+.head{
+  margin-left:10% ;
+}
+.form-control:hover{
+cursor: pointer;
+
+}
+.container{
+  margin: auto;
+}
